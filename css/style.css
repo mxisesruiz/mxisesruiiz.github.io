@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+* {margin: 0; padding: 0;}
+body {background-image: url("../img/imagen fondo.jpg"); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; text-align: center; color: white; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; line-height: 100px;}
+
+.wrapper {background-color: rgba(217,198,198,0.53); width: 1000px;margin-left: auto; margin-right: auto;}
+
+footer {font-size: 10px; background-color: crimson; height: 50px; line-height: 50px; }
+
+.menu {background-color: black; height: 220px;}
+ul {list-style-type: none;}
+li {width: 249px; float: left; border-left: 1px solid white; line-height: 30px;}
+
+#bord {border-left: none;}
+
+.titulomayor {font-size: 50px; line-height: 150px;}
+
+.fondossecciones {background-color: rgba(255,0,4,.50); width: 800px; margin-left: auto; margin-right: auto; margin: 50px; padding: 50px; }
+
+.fondossecciones p {text-align: justify; line-height: normal; margin-bottom: 50px}
+
+h2 {color:white; border-top:1px solid white; border-bottom: 1px solid white; width: 250px; margin-left: auto; margin-right: auto; line-height: 50px; margin-top: 50px; margin-bottom: 50px; }
+
+
+.polaroid {width: 317px; height: 380px; background-color: white; color: black; box-shadow: 0px 0px 10px white; padding-top: 10px; float: left; margin: 8px} 
+/* valores de box shadow: x, y, difuminado y color*/
+
+
+
+h3 {line-height: normal}
+
+.clear {clear: left} /*la funci*/
+
+
+a {text-decoration: none; color: white}
+
+a:hover {color: crimson; font-size: 20px; text-shadow: 0px 0px 15px white}
+
+
+
+
